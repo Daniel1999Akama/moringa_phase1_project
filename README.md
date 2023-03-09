@@ -27,9 +27,9 @@ Some visualizations created:
 
 ## Conclusion
 Based on the analysis done, the following recommendations were made:
-1. That Microsoft should produce films that are comedy, documentaries or fictional. The analysis ranked these genres as the most lucrative.
-2.That Microsoft should partner with famous studios from the ones identified. The analysis gave the top 5 studios in terms of their domestic and foreign gross revenue.
-3.That Microsoft should limit their average film runtime to between 120 and 170 minutes. Based on the analysis, films that had this runtime acquired more votes.
+* That Microsoft should produce films that are comedy, documentaries or fictional. The analysis ranked these genres as the most lucrative.
+* That Microsoft should partner with famous studios from the ones identified. The analysis gave the top 5 studios in terms of their domestic and foreign gross revenue.
+* That Microsoft should limit their average film runtime to between 120 and 170 minutes. Based on the analysis, films that had this runtime acquired more votes.
 
 ### fin
 
